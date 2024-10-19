@@ -13,6 +13,6 @@ ShamirSecretSharing/ ├── src/ │ └── main.js # Main JavaScript file
 
 ## Steps to Run the Project
 
-1. **Clone the Repository**
-   ```bash
-2.node src/main.js
+
+
+1.node src/main.js
