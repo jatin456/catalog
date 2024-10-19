@@ -15,4 +15,4 @@ ShamirSecretSharing/ ├── src/ │ └── main.js # Main JavaScript file
 
 
 
-1.node src/main.js
+1.node src/shamirSharing.js
